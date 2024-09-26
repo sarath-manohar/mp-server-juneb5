@@ -1,0 +1,30 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "avesham",
+      "url": "https://th.bing.com/th/id/OIP.DREmBV2WZWxBtAm-D1ZT4AHaDg?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    },
+    {
+      "id": "2",
+      "caption": "avesham",
+      "url": "https://th.bing.com/th/id/OIP.DREmBV2WZWxBtAm-D1ZT4AHaDg?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    },
+    {
+      "id": "3",
+      "caption": "avesham",
+      "url": "https://th.bing.com/th/id/OIP.DREmBV2WZWxBtAm-D1ZT4AHaDg?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    }
+  ],
+  "history": [],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Trailer",
+      "allVideos": []
+    }
+  ]
+}
